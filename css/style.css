@@ -67,6 +67,9 @@ a {
   width: 100%;
   position: relative;
 }
+.header a:hover {
+  color: var(--main-yellow);
+}
 .header-right-mob {
   display: none;
 }
