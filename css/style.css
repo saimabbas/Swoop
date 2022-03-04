@@ -1,14 +1,17 @@
 @font-face {
   src: url(/assets/fonts/AvenirLTStd-Black.otf);
   font-family: "ave-black";
+  font-display: optional;
 }
 @font-face {
   src: url(/assets/fonts/AvenirLTStd-Book.otf);
   font-family: "ave-book";
+  font-display: optional;
 }
 @font-face {
   src: url(/assets/fonts/AvenirLTStd-Roman.otf);
   font-family: "ave-roman";
+  font-display: optional;
 }
 .ave-black {
   font-family: "ave-black", -apple-system, BlinkMacSystemFont, "Segoe UI",
